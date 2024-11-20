@@ -1,5 +1,3 @@
-# Tarea
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.18.
 
 ## Documentación de la Configuración en el Frontend
@@ -67,3 +65,10 @@ export class TestConnectionComponent implements OnInit {
 ```console
  ng serve -o
 ```
+<br>
+
+> [!IMPORTANT]
+> If you cloned the project, run the following command to install the necessary dependencies.
+> ```
+> npm install
+> ```
