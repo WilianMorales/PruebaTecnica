@@ -8,8 +8,5 @@
 >- Angular
 >- SQLServer
 
-## Note: 
-### Install dependencies for running this Angular project
-```
-npm install
-```
+ℹ️ <strong>NOTA IMPORTANTE:</strong> Recuerda que este paso es crucial.
+> Reemplazar la `Cadena de Conexión` a la `Base de Datos`, en el proyecto del Backend.
